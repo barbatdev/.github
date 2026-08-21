@@ -1,2 +1,3 @@
 # .github
-Perfil público y estándares compartidos de la organización RefactorIA
+
+Public profile and shared standards for the RefactorIA organization.
