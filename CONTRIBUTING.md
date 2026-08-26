@@ -16,7 +16,7 @@ If scope or requirements are unclear, ask in the issue before coding. If you sto
 
 ## Contribution boundaries
 
-Contributors cannot push, merge, administer, or create repositories in upstream. Only `barbatdev` can push to upstream, merge pull requests, or perform administration.
+Owner final authority is defined by the Team Charter. Operational push, merge, and administration permissions come from assigned GitHub organization and repository roles and settings. No governance or community title implies operational permission.
 
 Local repository `CONTRIBUTING` files override this organization default.
 
