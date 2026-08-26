@@ -13,6 +13,8 @@ GitHub is the public record for proposals, changes, technical decisions, and rev
 7. Open a focused pull request to `upstream/main` that closes the approved issue.
 8. Select exactly one pull request type and use the matching `type:*` label.
 
+Automation enforces a closing reference to an approved issue, exactly one supported `type:*` label, and the branch naming policy. It runs trusted base code and fails closed when validation cannot complete.
+
 If scope or requirements are unclear, ask in the issue before implementation. If work stops, comment with the current state, relevant evidence, and remaining work, then unassign the issue.
 
 ## Public snapshot: 2026-08-23
