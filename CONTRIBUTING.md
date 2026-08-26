@@ -36,7 +36,11 @@ Use Conventional Commits in English. Do not add `Co-Authored-By` trailers or AI 
 
 Select exactly one PR type in the PR template. It needs one matching `type:*` label. Contributors select the type; a maintainer applies the label if they cannot.
 
-Public repository files, documentation, issue and PR titles, bodies, and comments, branch names, and commit messages must be English.
+### Language
+
+English is required for repository-facing OSS artifacts: code identifiers and comments where applicable, governance and technical documentation, issues, pull requests, commit messages, and security and contribution documentation.
+
+Audience-specific community or editorial content may use its target language when its purpose requires localization. Use neutral, professional wording for repository-facing artifacts.
 
 ## Security and privacy
 
