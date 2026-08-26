@@ -13,7 +13,7 @@ GitHub is the public record for proposals, changes, technical decisions, and rev
 7. Open a focused pull request to `upstream/main` that closes the approved issue.
 8. Select exactly one pull request type and use the matching `type:*` label.
 
-Automation enforces a closing reference to an approved issue, exactly one supported `type:*` label, and the branch naming policy. It runs trusted base code and fails closed when validation cannot complete.
+The required `Validate pull request policy` check enforces a closing reference to an approved issue, exactly one supported `type:*` label, and the branch naming policy. It runs trusted base code and fails closed when validation cannot complete.
 
 If scope or requirements are unclear, ask in the issue before implementation. If work stops, comment with the current state, relevant evidence, and remaining work, then unassign the issue.
 
@@ -35,7 +35,7 @@ The following table records public observations as of this date.
 
 This snapshot is not an audit of private configuration or access. It does not establish product, security, or operational claims beyond what public pages can show.
 
-## Desired public policy
+## Public policy
 
 ### Issues
 
@@ -68,9 +68,9 @@ This snapshot is not an audit of private configuration or access. It does not es
 
 Do not use process to block a contribution without a verifiable reason. Record exceptions in the change context.
 
-## Not publicly verifiable
+## Public evidence and restricted operations
 
-Public information cannot confirm exact branch rules, approval or check requirements, merge behavior, access permissions, internal automation, or sensitive security operations. Those details remain outside this documentation. This guide describes desired public process, not private configuration.
+Workflow source and pull request check results make automated policy behavior and outcomes publicly reviewable. Exact access assignments, bypass authority, and sensitive security operations remain outside public documentation. This guide records public policy without exposing restricted operations.
 
 ## Contribution checklist
 
